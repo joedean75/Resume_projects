@@ -1,7 +1,7 @@
 
 
 # TryHackMe Badges 
-<img src="images/Gingersnap75.png" alt="gingersnap75" width="300" height="100" style="float: right;">
+<img src="images/GingerSnap75.png" alt="gingersnap75" width="300" height="100" style="float: right;">
 Below are the badges I've earned on TryHackMe, along with descriptions and links to the corresponding rooms or challenges.
 
 
