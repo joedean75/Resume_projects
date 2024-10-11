@@ -23,16 +23,20 @@ command:  tcpdump -n -r teamviewer_1hr.pcap host 192.168.99.52
 Filtered tcpdump: ![alt text](images/filterd_tcpdump.png)
   
   results:
-    ![alt text](images/results.png)
+
+          ![alt text](images/results.png)
 
 Ascii tcpdump: ![alt text](images/ascii_command.png)
 
-  results: ![alt text](images/ascii_results.png)
+  results: 
+
+          ![alt text](images/ascii_results.png)
 
 Hex and Ascii tcpdump: ![alt text](images/hex.png)
 
   results:
-  ![alt text](images/hex_results.png)
+  
+          ![alt text](images/hex_results.png)
 
 ![alt text](images/ip_range.png)
 
